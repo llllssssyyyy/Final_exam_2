@@ -35,7 +35,7 @@ function setup() {
   
   pSlider = createSlider(0, 500, 100);
   pSlider.position(10, 320);
-  nSlider = createSlider(0, 100, 0);
+  nSlider = createSlider(0, 10, 0);
   nSlider.position(10, 340);
   
   gui = createGui('test slider');
