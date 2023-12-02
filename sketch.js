@@ -9,11 +9,11 @@ let gui;
 
 let params = {
   testValue : 10,
-  testValueMin : 0,
+  testValueMin : -500,
   testValueMax : 500,
   testValueStep : 2,
   move : 1,
-  moveMin : -10,
+  moveMin : 0,
   moveMax : 10,
   moveStep : 0.1,
   tColor : [200, 0, 0],
