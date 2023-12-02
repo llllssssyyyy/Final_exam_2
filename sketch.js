@@ -13,7 +13,7 @@ let params = {
   testValueMax : 500,
   testValueStep : 2,
   move : 1,
-  moveMin : 0,
+  moveMin : -10,
   moveMax : 10,
   moveStep : 0.1,
   tColor : [200, 0, 0],
